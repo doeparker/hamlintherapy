@@ -186,7 +186,7 @@ h3 {
 .profile-pic {
     grid-column-start: 3;
     grid-row-start: 2;
-    background-image: url(../images/edited-pic.jpg);
+    background-image: url(../hamlintherapy/images/edited-pic.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     border-radius: 25px;
